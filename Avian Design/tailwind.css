@@ -27,4 +27,9 @@
     .rounded-1xl{border-radius: 14px;}
     .box-shadow{box-shadow: 0px 34px 65px 0px rgba(116, 115, 128, 0.15);}
     .text-s{font-size: 8px;}
+    
+     /* Updated CSS for Dashboard Forms */
+    .login-w{width: 692px;}
+    .login-h{height: 737px;}
+    .signin-h{height: 900px;}
 }
