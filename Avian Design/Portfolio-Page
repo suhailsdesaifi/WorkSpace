@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>MySpace</title>
+		<meta charset="utf-8">
+		<meta name="keywords" content="HTML, CSS, JavaScript">
+		<meta name="discription" content="Learning the HTML, CSS, and the JavaScript">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="styles.css">
+	<!-- <script src="https://kit.fontawesome.com/1931a0e897.js" crossorigin="anonymous"></script> -->
+
+	</head>
+	<body class="">
+
+    <section class="cbrex-bg px-6 py-9 flex flex-col justify-between md:flex-row md:px-10 md:py-16 lg:px-20 lg:py-32">
+      <div class=" h-2/5 px-10 md:order-2 md:px-0 lg:w-2/5 xl:w-1/2">
+        <img src="/Assets/1920cbrex.svg" alt="cbrex">
+      </div>
+      <div class=" h-3/5 text-center md:text-left lg:w-3/5 xl:w-1/2">
+        <div class="flex flex-col gap-2 mb-3">
+          <div class="lg:flex lg:items-center lg:gap-6">
+            <h2 class="text-white font-bold text-xl leading-7 md:text-4xl md:leading-12 lg:text-6xl lg:leading-20">CBREX</h2>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UX Evolution</p>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UI Evolution</p>
+          </div>
+          <h4 class="text-white font-semibold text-sm leading-3 md:text-2xl md:leading-4 lg:text-3xl xl:mt-10">Global Recruiter Exchange</h4>
+        </div>
+        <div class="md:mt-5 xl:mt-10">
+          <p class="text-white font-normal text-xs md:text-base md:leading-6 lg:text-2xl lg:leading-8 xl:text-3xl xl:mb-24">
+            We, at Avian Design engaged directly with
+            Chandan Sardeshmukh (CPO & Co-founder of CBREX)
+            and their development team togather
+            insights and implement the aspired
+            design style into their existing system.
+          </p>
+          <button class="hidden xl:block xl:bg-white xl:px-5 xl:py-6 xl:font-medium xl:text-lg xl:button-text">View Detailed Case Study</button>
+        </div>
+      </div>
+    </section>
+
+
+
+
+
+    <section class="timios-bg px-6 py-9 flex flex-col justify-between md:flex-row md:px-10 md:py-16 lg:px-20 lg:py-32">
+      <div class=" h-2/5 px-10 md:px-0 lg:w-2/5 xl:w-1/2">
+        <img src="/Assets/360timios.svg" alt="cbrex">
+      </div>
+      <div class=" h-3/5 text-center md:text-right lg:w-3/5 xl:w-1/2">
+        <div class="flex flex-col gap-2 mb-3">
+          <div class="lg:flex lg:flex-row-reverse lg:items-center">
+            <h2 class="text-white font-bold text-xl leading-7 md:text-4xl md:leading-12 lg:text-6xl lg:leading-20">Timios</h2>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UX Evolution</p>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UI Evolution</p>
+          </div>
+          <!-- <h4 class="text-white font-semibold text-sm leading-3 md:text-2xl md:leading-4 lg:text-3xl xl:mt-10">Global Recruiter Exchange</h4> -->
+        </div>
+        <div class="md:mt-5 xl:mt-10 lg:pl-3">
+          <p class="text-white font-normal text-xs md:text-base md:leading-6 lg:text-2xl lg:leading-8 xl:text-3xl xl:mb-24">
+            Timios brings to our children an age-
+            appropriate range of products that are loaaded
+            with goodness on the inside and fun on the
+            outside! We at Avian Design engaged with
+            Aswabu Chaitanya, founder of Timios. to
+            evaluate thei existing platform and build a
+            new digital experience focusing mainly on the
+            end-user.
+          </p>
+          <button class="hidden xl:block xl:bg-white xl:px-5 xl:py-6 xl:font-medium xl:text-lg xl:button-text">View Detailed Case Study</button>
+        </div>
+      </div>
+    </section>
+
+
+
+
+    <section class="cover-tree-bg px-6 py-9 flex flex-col justify-between md:flex-row md:px-10 md:py-16 lg:px-20 lg:py-32">
+      <div class=" h-2/5 px-10 md:order-2 md:px-0 lg:w-2/5 xl:w-1/2">
+        <img src="/Assets/1920coverTree.svg" alt="cbrex">
+      </div>
+      <div class=" h-3/5 text-center md:text-left lg:w-3/5 xl:w-1/2">
+        <div class="flex flex-col gap-2 mb-3">
+          <div class="lg:flex lg:items-center lg:gap-6">
+            <h2 class="text-white font-bold text-xl leading-7 md:text-4xl md:leading-12 lg:text-6xl lg:leading-20">Cover Tree</h2>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UX Evolution</p>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UI Evolution</p>
+          </div>
+          <h4 class="text-white font-semibold text-sm leading-3 md:text-2xl md:leading-4 lg:text-3xl xl:mt-10">An insurance company that helps users to find the best insurance that suites them.</h4>
+        </div>
+        <div class="md:mt-5 xl:mt-10">
+          <p class="text-white font-normal text-xs md:text-base md:leading-6 lg:text-2xl lg:leading-8 xl:text-3xl xl:mb-24">
+            We, at Avian Design engaged directly with
+            the Adarsh Rachmale and Divyansh
+            Malhotra (Co-founder) to gather insights
+            and implement the aspired design style into
+            their existing system.
+          </p>
+          <button class="hidden xl:block xl:bg-white xl:px-5 xl:py-6 xl:font-medium xl:text-lg xl:button-text">View Detailed Case Study</button>
+        </div>
+      </div>
+    </section>
+
+
+
+    <section class="sepal-bg px-6 py-9 flex flex-col justify-between md:flex-row md:px-10 md:py-16 lg:px-20 lg:py-32">
+      <div class=" h-2/5 px-10 md:px-0 lg:w-2/5 xl:w-1/2">
+        <img src="/Assets/1920sepal.svg" alt="cbrex">
+      </div>
+      <div class=" h-3/5 text-center md:text-right lg:w-3/5 xl:w-1/2">
+        <div class="flex flex-col gap-2 mb-3">
+          <div class="lg:flex lg:flex-row-reverse lg:items-center">
+            <h2 class="text-white font-bold text-xl leading-7 md:text-4xl md:leading-12 lg:text-6xl lg:leading-20">Sepal</h2>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UX Evolution</p>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UI Evolution</p>
+          </div>
+          <h4 class="text-white font-semibold text-sm leading-3 md:text-2xl md:leading-4 lg:text-3xl xl:mt-10">Experience complete protection and ultimate confort!</h4>
+        </div>
+        <div class="md:mt-5 xl:mt-10 lg:pl-3">
+          <p class="text-white font-normal text-xs md:text-base md:leading-6 lg:text-2xl lg:leading-8 xl:text-3xl xl:mb-24">
+            Sepal is a Consumer Electronic organization aiming
+            to lead and integral sect of the two-wheeler industry
+            to make the life of a daily commuter safer. more
+            comfortable & enjoyable through the use of IoT.
+          </p>
+          <button class="hidden xl:block xl:bg-white xl:px-5 xl:py-6 xl:font-medium xl:text-lg xl:button-text">View Detailed Case Study</button>
+        </div>
+      </div>
+    </section>
+
+
+    <section class="health-uno-bg px-6 py-9 flex flex-col justify-between md:flex-row md:px-10 md:py-16 lg:px-20 lg:py-32">
+      <div class=" h-2/5 px-10 md:order-2 md:px-0 lg:w-2/5 xl:w-1/2">
+        <img src="/Assets/1920healthuno.svg" alt="cbrex">
+      </div>
+      <div class=" h-3/5 text-center md:text-left lg:w-3/5 xl:w-1/2">
+        <div class="flex flex-col gap-2 mb-3">
+          <div class="lg:flex lg:items-center lg:gap-6">
+            <h2 class="text-white font-bold text-xl leading-7 md:text-4xl md:leading-12 lg:text-6xl lg:leading-20">Health Uno</h2>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UX Evolution</p>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UI Evolution</p>
+          </div>
+          <h4 class="text-white font-semibold text-sm leading-3 md:text-2xl md:leading-4 lg:text-3xl xl:mt-10">The health care service you trust to care!</h4>
+        </div>
+        <div class="md:mt-5 xl:mt-10">
+          <p class="text-white font-normal text-xs md:text-base md:leading-6 lg:text-2xl lg:leading-8 xl:text-3xl xl:mb-24">
+            HealthUno is a Chennai-based healthcare platform that
+					provides a digital network of experts to the Indian
+					community. We at Avian Design engaged with Dr. Anand
+					Punniakoti, Chief Medical Officer at HealthUno, to bring
+					life to their new platform and build a digital experience
+					focusing on affordable and effective online healthcare.
+          </p>
+          <button class="hidden xl:block xl:bg-white xl:px-5 xl:py-6 xl:font-medium xl:text-lg xl:button-text">View Detailed Case Study</button>
+        </div>
+      </div>
+    </section>
+
+    
+
+
+
+    <section class="scarto-bg px-6 py-9 flex flex-col justify-between md:flex-row md:px-10 md:py-16 lg:px-20 lg:py-32">
+      <div class=" h-2/5 px-10 md:px-0 lg:w-2/5 xl:w-1/2">
+        <img src="/Assets/1920scarto.svg" alt="cbrex">
+      </div>
+      <div class=" h-3/5 text-center md:text-right lg:w-3/5 xl:w-1/2">
+        <div class="flex flex-col gap-2 mb-3">
+          <div class="lg:flex lg:flex-row-reverse lg:items-center">
+            <h2 class="text-white font-bold text-xl leading-7 md:text-4xl md:leading-12 lg:text-6xl lg:leading-20">Scarto</h2>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UX Evolution</p>
+            <p class="hidden lg:block lg:font-medium lg:text-lg lg:leading-7 lg:mr-5 lg:px-4 xl:py-2 lg:evolution-bg lg:rounded-3xl">UI Evolution</p>
+          </div>
+          <h4 class="text-white font-semibold text-sm leading-3 md:text-2xl md:leading-4 lg:text-3xl xl:mt-10">Let's step towards a sustainable lifestyle with Scarto.</h4>
+        </div>
+        <div class="md:mt-5 xl:mt-10 lg:pl-3">
+          <p class="text-white font-normal text-xs md:text-base md:leading-6 lg:text-2xl lg:leading-8 xl:text-3xl xl:mb-24">
+            Scarto aims to build a product that is a sustainable
+				way to help people in need and fight the
+				environment in the balance against food waste.
+          </p>
+          <button class="hidden xl:block xl:bg-white xl:px-5 xl:py-6 xl:font-medium xl:text-lg xl:button-text">View Detailed Case Study</button>
+        </div>
+      </div>
+    </section>
+
+
+
+
+
+
+
+  </body>
+	<script src="myScript.js"></script>
+</html>
