@@ -36,3 +36,24 @@
 
 /* Updated CSS for Servces Page */
 .offering-paragraph-text-color{color: rgba(163, 163, 163, 1);}
+
+
+
+
+    /* CSS for Portfolio Page */
+    .evolution-bg{background-color: rgba(255, 255, 255, 0.6);}
+    .button-text{color: rgba(255, 118, 31, 1);}
+    .cbrex-bg{background-color: rgba(255, 118, 31, 1);}
+    .timios-bg{background-color: rgba(128, 83, 181, 1);}
+    .timios-button-text{color: rgba(128, 83, 181, 1);}
+    .cover-tree-bg{background-color: rgba(177, 246, 186, 1);}
+    .cover-tree-text-hd{color: rgba(38, 119, 49, 1);}
+    .cover-tree-text-para{color: rgba(27, 27, 27, 1);}
+    .cover-tree-para-text{color: rgba(9, 54, 73, 1);}
+    .cover-tree-button-bg{background-color: rgba(38, 119, 49, 1);}
+    .sepal-bg{background-color: rgba(3, 25, 39, 1);}
+    .sepal-button-text{color: rgba(3, 25, 39, 1);}
+    .health-uno-bg{background-color: rgba(40, 163, 218, 1);}
+    .health-uno-button-text{color: rgba(40, 163, 218, 1);}
+    .scarto-bg{background-color: rgba(248, 138, 53, 1);}
+}
